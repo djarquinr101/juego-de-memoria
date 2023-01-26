@@ -1,0 +1,110 @@
+html{
+    background-color: #567189;
+  }
+  .title-container{
+    background-color: #CFB997;
+    border-radius: 30px;
+  }
+  .container{
+    width:100%;
+    height: auto;
+    background-color: #7B8FA1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 30px;
+  }
+  
+  .box{
+     background-color: white;
+     width:10rem;
+     height: 10rem;
+     margin: 1rem;
+     border-radius: 30px;
+     display:none;
+  }
+  
+  h1{
+    text-align: center;
+  }
+
+
+#box1{background-image:url('imagesForProject/1.PNG'); background-size:cover;background-position:center;}
+#box2{background-image:url('imagesForProject/2.PNG');background-size:cover;background-position:center;}
+#box3{background-image:url('imagesForProject/3.PNG');background-size:cover;background-position:center;}
+#box4{background-image:url('imagesForProject/4.PNG');background-size:cover;background-position:center;}
+#box5{background-image:url('imagesForProject/5.PNG');background-size:cover;background-position:center;}
+#box6{background-image:url('imagesForProject/6.PNG');background-size:cover;background-position:center;}
+#box7{background-image:url('imagesForProject/7.PNG');background-size:cover;background-position:center;}
+#box8{background-image:url('imagesForProject/8.PNG');background-size:cover;background-position:center;}
+#box9{background-image:url('imagesForProject/9.PNG');background-size:cover;background-position:center;}
+#box10{background-image:url('imagesForProject/10.PNG');background-size:cover;background-position:center;}
+#box11{background-image:url('imagesForProject/11.PNG');background-size:cover;background-position:center;}
+#box12{background-image:url('imagesForProject/12.PNG');background-size:cover;background-position:center;}
+#box13{background-image:url('imagesForProject/13.PNG');background-size:cover;background-position:center;}
+#box14{background-image:url('imagesForProject/14.PNG');background-size:cover;background-position:center;}
+#box15{background-image:url('imagesForProject/15.PNG');background-size:cover;background-position:center;}
+#box16{background-image:url('imagesForProject/16.PNG');background-size:cover;background-position:center;}
+#box17{background-image:url('imagesForProject/17.PNG');background-size:cover;background-position:center;}
+#box18{background-image:url('imagesForProject/18.PNG');background-size:cover;background-position:center;}
+#box19{background-image:url('imagesForProject/19.PNG');background-size:cover;background-position:center;}
+#box20{background-image:url('imagesForProject/20.PNG');background-size:cover;background-position:center;}
+#box21{background-image:url('imagesForProject/21.PNG');background-size:cover;background-position:center;}
+#box22{background-image:url('imagesForProject/22.PNG');background-size:cover;background-position:center;}
+#box23{background-image:url('imagesForProject/23.PNG');background-size:cover;background-position:center;}
+#box24{background-image:url('imagesForProject/24.PNG');background-size:cover;background-position:center;}
+#box25{background-image:url('imagesForProject/25.PNG');background-size:cover;background-position:center;}
+#box26{background-image:url('imagesForProject/26.PNG');background-size:cover;background-position:center;}
+#box27{background-image:url('imagesForProject/27.PNG');background-size:cover;background-position:center;}
+#box28{background-image:url('imagesForProject/28.PNG');background-size:cover;background-position:center;}
+#box29{background-image:url('imagesForProject/29.PNG');background-size:cover;background-position:center;}
+#box30{background-image:url('imagesForProject/30.PNG');background-size:cover;background-position:center;}
+#box31{background-image:url('imagesForProject/31.PNG');background-size:cover;background-position:center;}
+#box32{background-image:url('imagesForProject/32.PNG');background-size:cover;background-position:center;}
+#box33{background-image:url('imagesForProject/33.PNG');background-size:cover;background-position:center;}
+#box34{background-image:url('imagesForProject/34.PNG');background-size:cover;background-position:center;}
+#box35{background-image:url('imagesForProject/35.PNG');background-size:cover;background-position:center;}
+#box36{background-image:url('imagesForProject/36.PNG');background-size:cover;background-position:center;}
+#box37{background-image:url('imagesForProject/37.PNG');background-size:cover;background-position:center;}
+#box38{background-image:url('imagesForProject/38.PNG');background-size:cover;background-position:center;}
+#box39{background-image:url('imagesForProject/39.PNG');background-size:cover;background-position:center;}
+#box40{background-image:url('imagesForProject/40.PNG');background-size:cover;background-position:center;}
+#box41{background-image:url('imagesForProject/41.PNG');background-size:cover;background-position:center;}
+#box42{background-image:url('imagesForProject/42.PNG');background-size:cover;background-position:center;}
+#box43{background-image:url('imagesForProject/43.PNG');background-size:cover;background-position:center;}
+#box44{background-image:url('imagesForProject/44.PNG');background-size:cover;background-position:center;}
+#box45{background-image:url('imagesForProject/45.PNG');background-size:cover;background-position:center;}
+#box46{background-image:url('imagesForProject/46.PNG');background-size:cover;background-position:center;}
+#box47{background-image:url('imagesForProject/47.PNG');background-size:cover;background-position:center;}
+#box48{background-image:url('imagesForProject/48.PNG');background-size:cover;background-position:center;}
+#box49{background-image:url('imagesForProject/49.PNG');background-size:cover;background-position:center;}
+#box50{background-image:url('imagesForProject/50.PNG');background-size:cover;background-position:center;}
+#box51{background-image:url('imagesForProject/51.PNG');background-size:cover;background-position:center;}
+#box52{background-image:url('imagesForProject/52.PNG');background-size:cover;background-position:center;}
+#box53{background-image:url('imagesForProject/53.PNG');background-size:cover;background-position:center;}
+#box54{background-image:url('imagesForProject/54.PNG');background-size:cover;background-position:center;}
+#box55{background-image:url('imagesForProject/55.PNG');background-size:cover;background-position:center;}
+#box56{background-image:url('imagesForProject/56.PNG');background-size:cover;background-position:center;}
+#box57{background-image:url('imagesForProject/57.PNG');background-size:cover;background-position:center;}
+#box58{background-image:url('imagesForProject/58.PNG');background-size:cover;background-position:center;}
+#box59{background-image:url('imagesForProject/59.PNG');background-size:cover;background-position:center;}
+#box60{background-image:url('imagesForProject/60.PNG');background-size:cover;background-position:center;}
+#box61{background-image:url('imagesForProject/61.PNG');background-size:cover;background-position:center;}
+
+  
+  .button-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  button{
+    margin: 0.5rem;
+    padding: 1.5rem;
+    width: 10rem;
+    height: 4rem;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    background-color:#FAD6A5;
+  }
