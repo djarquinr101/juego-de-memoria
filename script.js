@@ -157,5 +157,4 @@ let idElement ="";
       }
     }
     
-    //this will allow me to get the ID of the elements that are being click
-    //https://softauthor.com/get-id-of-clicked-element-in-javascript/#:~:text=The%20buttonPressed()%20callback%20function%20will%20have%20a%20returned%20event,ID%20of%20the%20clicked%20element.
+ 
